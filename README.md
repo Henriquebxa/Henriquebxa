@@ -1,30 +1,52 @@
 # Olá, eu sou o Henrique Bezerra 👋
 
-### 💻 Futuro Engenheiro de Software | Desenvolvedor Full Stack
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Futuro+Engenheiro+de+Software;Desenvolvedor+Full+Stack;Entusiasta+da+Tecnologia" alt="Typing SVG" />
+</p>
 
-Sou um entusiasta da tecnologia e autodidata por natureza. Com formações pelo **Senac** em desenvolvimento web, foco em criar soluções eficientes e elegantes para problemas complexos.
+###
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
 
+###
+<div align="center">
+  <a href="https://www.linkedin.com/in/henrique-bezerra-061283380" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="Henriquebxa@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henriquebxa/henriquebxa/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henriquebxa/henriquebxa/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/henriquebxa/henriquebxa/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ### 🚀 Sobre Mim
 
 - 🎓 Estudando para me tornar um **Engenheiro de Software** especialista.
 - 💡 Foco atual: Aprimorar arquitetura de sistemas e performance em bancos de dados.
 - 🛠️ Experiência com o ecossistema PHP, Python e integração de dados com MySQL.
-- 📫 Como me encontrar: <a href="https://www.linkedin.com/in/henrique-bezerra-061283380" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
 
----
+###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=henriquebxa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-### 🛠️ Tecnologias e Ferramentas
-
-**Front-end:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Back-end & Database:**
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
