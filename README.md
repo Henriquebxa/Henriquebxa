@@ -36,12 +36,6 @@
 - 🎓 Estudando para me tornar um **Engenheiro de Software** especialista.
 - 💡 Foco atual: Aprimorar arquitetura de sistemas e performance em bancos de dados.
 - 🛠️ Experiência com o ecossistema PHP, Python e integração de dados com MySQL.
-
-###
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=henriquebxa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
 ###
 
 <p align="center">
